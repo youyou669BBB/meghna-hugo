@@ -1,4 +1,4 @@
-baseURL = "https://younestestsite.com/meghna/examplesite/"
+baseURL = "https://younes-test.netlify"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
