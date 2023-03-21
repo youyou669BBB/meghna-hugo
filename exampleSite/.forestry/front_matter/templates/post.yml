@@ -23,7 +23,5 @@ fields:
   label: description
   description: meta description
 pages:
-- exampleSite/content/english/blog/younes-post-copy.md
-- exampleSite/content/english/blog/younes-post.md
 - exampleSite/content/french/blog/younes-post-1.md
 - exampleSite/content/french/blog/younes-post.md
